@@ -19,3 +19,4 @@ for i in word1 :
 f.close()
 //thanks
 f1.close()
+//fghfjkhil
