@@ -18,3 +18,4 @@ for i in word1 :
 
 f.close()
 f1.close()
+//tt
