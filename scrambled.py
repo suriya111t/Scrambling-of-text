@@ -17,5 +17,5 @@ for i in word1 :
         f1.write(" ")
 
 f.close()
-//thanks 
+//thanks
 f1.close()
